@@ -1,5 +1,5 @@
 ### check this 🤡 out 
-why is it when i add a badge to my profile , the owner goes bankrupt or some shit , anyways , i identify as a techie wannabe and this acc serves as a way to commemorate my desperate attempts to patch it all up , i try to have fun , find me on dribbble and instagram
+why is it when i add a badge to my profile , the owner goes bankrupt or some shit , anyways , i identify as a techie wannabe and this acc serves as a way to commemorate my desperate attempts to patch it all up , i try to have fun , i hate .DS_Store files with passion, find me on dribbble and instagram
 
 <p align="center">
 <a href="https://dribbble.com/SABBAJISoukaina">
