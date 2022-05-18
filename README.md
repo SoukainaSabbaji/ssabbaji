@@ -1,6 +1,6 @@
 ### check this 🤡 out 
 
-My name's Soukaina , currently a software engineering student in 1337 khouribga (42 network), graphic designer , digital artist . Also trying to figure out how much time its gonna take me before i give up on gamedev , i hate .DS_Store files with passion 
+My name's Soukaina , currently a software engineering student at 1337 khouribga (42 network), graphic designer , digital artist . Also trying to figure out how much time its gonna take me before i give up on gamedev , i hate .DS_Store files with passion 
 
 
 ### - My socials
