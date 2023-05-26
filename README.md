@@ -27,4 +27,4 @@ My name's Soukaina , currently a software engineering student at 1337 khouribga 
 
 
 ## 📈 Contribution stats
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SoukainaSabbaji&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SoukainaSabbaji&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
