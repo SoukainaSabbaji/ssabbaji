@@ -1,6 +1,6 @@
 ### check this 🤡 out 
 
-My name's Soukaina , currently a software engineering student at 1337 khouribga (42 network), graphic designer , digital artist . game dev enthusiast
+My name's Soukaina , currently a software engineering student at 1337 khouribga (42 network), front-end dev , graphic designer , digital artist . game dev enthusiast
 
 
 ### - My socials
