@@ -1,12 +1,12 @@
 Hi 👋 My name is Soukaina Sabbaji
 =================================
 
-Front-end developer and designer
+Software engineering student , graphic designer/artist
 --------------------------------
 
 * 🌍  I'm based in Morocco
 * ✉️  You can contact me at [sabbajisoukaina@gmail.com](mailto:sabbajisoukaina@gmail.com)
-* 🧠  I'm learning Typescript
+* 🧠  I'm learning Oracle APEX :D
 * ⚡  1337 Khouribga student
 
 ### Skills
@@ -19,6 +19,6 @@ Front-end developer and designer
 
 ### - My socials
 
-<p align="left"> <a href="https://discord.com/users/se7t lil#0001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.behance.net/sabbajisoukaina" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/iolaquietusdeletus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/soukaina-sabbaji-99136217b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/se7t lil#0001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.behance.net/sabbajisoukaina" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/soukaina-sabbaji-99136217b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ![GitHub Profile Summary stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoukainaSabbaji&theme=tokyonight)
