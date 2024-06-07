@@ -24,5 +24,6 @@ Software engineering student , graphic designer/artist
 
 ![GitHub Profile Summary stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoukainaSabbaji&theme=tokyonight)
 
+
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/SoukainaSabbaji/pikachu/blob/master/8449-structure-3d-model-volume-4k.jpg');]{x0000}$}
+\ce{$\unicode[color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/SoukainaSabbaji/SoukainaSabbaji/main/assets/8449-structure-3d-model-volume-4k.jpg') no-repeat center center fixed; background-size: cover;]{x0000}$}
