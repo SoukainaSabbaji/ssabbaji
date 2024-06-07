@@ -17,8 +17,12 @@ Software engineering student , graphic designer/artist
 </p>
 
 
-### - My socials
+
+ - My socials
 
 <p align="left"> <a href="https://discord.com/users/se7t lil#0001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.behance.net/sabbajisoukaina" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/soukaina-sabbaji-99136217b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ![GitHub Profile Summary stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoukainaSabbaji&theme=tokyonight)
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/SoukainaSabbaji/pikachu/blob/master/8449-structure-3d-model-volume-4k.jpg');]{x0000}$}
