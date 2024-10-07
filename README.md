@@ -1,12 +1,10 @@
-Hi 👋 My name is Soukaina Sabbaji
+Hi 👋 My name is s0uk1
 =================================
 
-Software engineering student , graphic designer/artist
+Software developer , graphic designer/artist
 --------------------------------
 
-* 🌍  I'm based in Morocco
-* ✉️  You can contact me at [sabbajisoukaina@gmail.com](mailto:sabbajisoukaina@gmail.com)
-* 🧠  I'm learning Oracle APEX :D
+* 🧠  I'm learning DevOps :D
 * ⚡  1337 Khouribga student
 
 ### Skills
