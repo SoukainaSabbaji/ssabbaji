@@ -16,11 +16,7 @@ Software developer , graphic designer/artist
 
 
 
- - My socials
-
-<p align="left"> <a href="https://discord.com/users/se7t lil#0001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.behance.net/sabbajisoukaina" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/soukaina-sabbaji-99136217b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-![GitHub Profile Summary stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoukainaSabbaji&theme=tokyonight)
+![GitHub Profile Summary stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s0uk1&theme=tokyonight)
 
 
 RIP CSS injection in README
